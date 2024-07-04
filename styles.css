@@ -94,6 +94,26 @@ nav ul li a:hover {
     transition: background-color 0.3s;
 }
 
+.hero .btnp {
+    padding: 10px 20px;
+    background-color: #404040;
+    color: #121212;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.hero .btnp:hover {
+    padding: 10px 20px;
+    background-color: #2b2b2b;
+    color: #121212;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
 .hero .btn:hover {
     background-color: #64dd17;
 }
